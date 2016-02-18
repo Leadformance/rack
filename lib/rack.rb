@@ -20,7 +20,7 @@ module Rack
 
   # Return the Rack release as a dotted string.
   def self.release
-    "1.4.7"
+    "1.4.7.1"
   end
 
   autoload :Builder, "rack/builder"
